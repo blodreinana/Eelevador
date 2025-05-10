@@ -1,6 +1,6 @@
-bimbimbambam = bool(input("")) #True ou False
+bimbimbambam = bool(input("Digite True ou False: ")) #True ou False
 
-if bimbimbambam = True:
+if bimbimbambam.capitalize() = True:
   print("wise mysthical tree")
 else:
   print("Mateus gay")
