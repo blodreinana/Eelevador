@@ -148,7 +148,7 @@ void loop() {
   if (potencia != 0) {
     // mapeia |potencia| → intervalo entre steps
     unsigned long interval = map(abs(potencia),
-                                0.5, 5,
+                                0, 5,
                                 maxIntervalUs,
                                 minIntervalUs);
     if (nowUs - lastStepUs >= interval) {
