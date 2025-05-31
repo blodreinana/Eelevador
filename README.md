@@ -61,12 +61,13 @@ O sistema visa otimizar o trabalho dos técnicos e aumentar a segurança do proc
 
 ## 👩‍💻 Desenvolvido por
 
-**Allana Helena Campos Albino**  
-**Tiago Faria de Almeida Ferreira**
-**Erick Lima Barbosa**
-**Mateus Hipolito Bustamante**
-**Pedro Lopes Ferreira**
-**Luiz Henrique de Almeida**
+- **Allana Helena Campos Albino**
+- **Tiago Faria de Almeida Ferreira**
+- **Erick Lima Barbosa**
+- **Mateus Hipolito Bustamante**
+- **Pedro Lopes Ferreira**
+- **Luiz Henrique de Almeida**
+
 FIAP – Engenharia Mecatrônica (1º semestre)
 
 Desenvolvido com dedicação, noites em claro, café e amor por tecnologia 💙
