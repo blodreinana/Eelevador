@@ -1,8 +1,7 @@
 
 # Anemômetro com ESP32 + Módulo SIM (GPRS) + Sensor de Chuva
 
-Este documento reúne **tudo que você precisa** para configurar, programar e testar um sistema que lê dados de um anemômetro (sensor de vento) e de um sensor de chuva conectados a um ESP32 e envia essas leituras via HTTP para um servidor remoto usando um módulo SIM (operadora Claro) em rede GPRS. Você poderá copiar e colar este conteúdo diretamente no seu `README.md` no GitHub.
-
+Este documento reúne **tudo que você precisa** para configurar, programar e testar um sistema que lê dados de um anemômetro (sensor de vento) e de um sensor de chuva conectados a um ESP32 e envia essas leituras via HTTP para um servidor remoto usando um módulo SIM (operadora Claro) em rede GPRS. 
 ---
 
 ## 🔹 Descrição Geral
